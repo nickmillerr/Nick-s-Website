@@ -1,2 +1,2 @@
 # website
-index-1.html
+index.html
